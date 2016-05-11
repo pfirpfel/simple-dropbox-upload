@@ -1,3 +1,9 @@
+#!/usr/bin/ruby
+#
+# Dependencies:
+# - dropbox_sdk
+#
+
 require 'optparse'
 require 'dropbox_sdk'
 
